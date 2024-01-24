@@ -1,0 +1,37 @@
+table {
+	border: none !important;
+	width: 100% !important;
+}
+
+tbody {
+	width: 100% !important;
+}
+
+thead {
+	width: 100% !important;
+}
+
+td {
+	border: none !important;
+}
+
+tr {
+	border: none !important;
+}
+
+th {
+	border: none !important;
+	border-bottom: 3px solid var(--text-normal) !important;
+}
+
+.mod-active, .internal-link, .external-link {
+	color: rgb(219, 31, 31) !important;
+}
+
+.mod-active {
+	border-left: 1px solid rgb(219, 31, 31) !important;
+}
+
+.internal-link.is-unresolved {
+	color: rgb(222, 53, 53) !important;
+}
