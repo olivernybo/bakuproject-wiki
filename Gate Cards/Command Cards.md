@@ -30,5 +30,7 @@
 | [[Gate Cards/Command Cards/Third Judgement.md\|Third Judgement]]   | 3000 HSP |
 | [[Gate Cards/Command Cards/Trade-Off.md\|Trade-Off]]               | 3000 HSP |
 | [[Gate Cards/Command Cards/Transformation.md\|Transformation]]     | 3000 HSP |
+| [[Gate Cards/Command Cards/Triple Battle.md\|Triple Battle]]       | 4500 HSP |
 | [[Gate Cards/Command Cards/Ventus Hazard.md\|Ventus Hazard]]       | 2500 HSP |
 | [[Gate Cards/Command Cards/Wall Lock.md\|Wall Lock]]               | 3000 HSP |
+| [[Gate Cards/Command Cards/Warp Gate.md\|Warp Gate]]               | 3000 HSP |

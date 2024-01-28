@@ -6,7 +6,7 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
 	"Bakugan",
-	'TABLE base-power + " G" AS "Base Power Level", price + " HSP" AS Price FROM "Bakugan" WHERE file.name != "Bakugan" SORT file.name asc'
+	'TABLE price + " HSP" AS Price FROM "Bakugan" WHERE file.name != "Bakugan" SORT file.name asc'
   ],
   [
     "Special Cards",

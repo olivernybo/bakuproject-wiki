@@ -2,4 +2,4 @@
 price: 2500
 bakugan: Harpus
 ---
-[[Harpus]] gains 100 Gs.
+[[Harpus]] gains 100 G's.
